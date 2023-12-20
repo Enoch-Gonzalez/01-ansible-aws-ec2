@@ -48,9 +48,9 @@ Navigate to the project directory and configure the necessary files:
 
 ### Important Notes
 
-    - AWS Charges: Be aware that running this playbook may incur AWS charges. Ensure to terminate all resources created by the playbook to avoid unexpected charges.
+- AWS Charges: Be aware that running this playbook may incur AWS charges. Ensure to terminate all resources created by the playbook to avoid unexpected charges.
 
-    - Resource Cleanup: Use caution when running the termination task. It will delete all AWS resources provisioned by this playbook.
+- Resource Cleanup: Use caution when running the termination task. It will delete all AWS resources provisioned by this playbook.
 
 ### Disclaimer
 
